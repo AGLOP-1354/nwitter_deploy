@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AGLOP-1354/nwitter/static/css/main.f6d6bb4f.chunk.css",
+    "main.js": "/AGLOP-1354/nwitter/static/js/main.4a7e8af8.chunk.js",
+    "main.js.map": "/AGLOP-1354/nwitter/static/js/main.4a7e8af8.chunk.js.map",
+    "runtime-main.js": "/AGLOP-1354/nwitter/static/js/runtime-main.c36b6566.js",
+    "runtime-main.js.map": "/AGLOP-1354/nwitter/static/js/runtime-main.c36b6566.js.map",
+    "static/js/2.478c5529.chunk.js": "/AGLOP-1354/nwitter/static/js/2.478c5529.chunk.js",
+    "static/js/2.478c5529.chunk.js.map": "/AGLOP-1354/nwitter/static/js/2.478c5529.chunk.js.map",
+    "index.html": "/AGLOP-1354/nwitter/index.html",
+    "static/css/main.f6d6bb4f.chunk.css.map": "/AGLOP-1354/nwitter/static/css/main.f6d6bb4f.chunk.css.map",
+    "static/js/2.478c5529.chunk.js.LICENSE.txt": "/AGLOP-1354/nwitter/static/js/2.478c5529.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c36b6566.js",
+    "static/js/2.478c5529.chunk.js",
+    "static/css/main.f6d6bb4f.chunk.css",
+    "static/js/main.4a7e8af8.chunk.js"
+  ]
+}
